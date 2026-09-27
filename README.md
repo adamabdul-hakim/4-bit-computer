@@ -7,9 +7,5 @@ See [docs/00-project-goals.md](docs/00-project-goals.md) for the full project ch
 ## Repo Structure
 
 - `docs/` — project goals, architecture decisions, engineering logs
-- `schematics/` — circuit diagrams
-- `photos/` — build photos
-- `simulations/` — circuit/logic simulations
 - `assembler/` — assembler source
 - `programs/` — programs written for the machine
-- `datasheets/` — component datasheets
