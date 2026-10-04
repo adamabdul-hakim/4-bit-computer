@@ -40,6 +40,18 @@ The NOT gate uses the transistor as an inverting switch. A LOW input leaves the 
 
 The two transistors are connected in series, so current can flow through the LED only when both inputs are HIGH and both transistors turn on. If either input is LOW, its transistor stays off and the LED remains off.
 
+## OR Gate
+
+### Build
+
+![OR Gate Schematic](or-gate.png)
+
+![OR Gate Build](or-gate-build.jpg)
+
+### How It Works
+
+The two transistors are connected in parallel, so current can flow through the LED when either input is HIGH and its transistor turns on. The LED remains off only when both inputs are LOW.
+
 ## What We Learned
 
 - A transistor can act as an electronically controlled switch, turning current on or off based on its input.
